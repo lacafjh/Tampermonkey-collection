@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Steam自动探索队列
-// @namespace    http://steamcn.com/t157861-1-1
-// @version      0.2
+// @namespace    https://keylol.com/t157861-1-1
+// @version      0.2.1
 // @description  Steam节庆活动用脚本，自动探索3次队列。
 // @author       baodongsun
 // @match        https://store.steampowered.com/
